@@ -24,7 +24,7 @@
 ---
 <h3 align="left">📦 Recent Project:</h3>
 <p align="left">
-[@intersection-observer](https://github.com/ahmedaljohi/viewport-utils) — A cross-framework Intersection Observer utility for React, Vue, and Next.js
+[@intersection-observer](https://github.com/AhmedAljohi/intersection-observer) — A cross-framework Intersection Observer utility for React, Vue, and Next.js
 </p>
 
 ---

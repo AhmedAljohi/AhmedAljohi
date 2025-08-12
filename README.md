@@ -20,7 +20,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-
+## 📦 Recent Project
+[@intersection-observer](https://github.com/ahmedaljohi/viewport-utils) — A cross-framework Intersection Observer utility for React, Vue, and Next.js
 ---
 
 <h3 align="left">Languages and Tools:</h3>
